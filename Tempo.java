@@ -13,8 +13,8 @@ public class Tempo {
         if (instance == null) {
             instance = new Tempo();
         }
-         System.out.println("Daniel 17min");
-         System.out.println("Gabriel 15min");
+         System.out.println("Daniel 15min");
+         System.out.println("Gabriel 17min");
         return instance;
     }
 }
